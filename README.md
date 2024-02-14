@@ -7,3 +7,5 @@ Paper Links:
 * cGAN Paper: https://arxiv.org/pdf/1411.1784.pdf
 * Pix2Pix Paper: https://arxiv.org/pdf/1611.07004.pdf
 * CycleGAN Paper: https://arxiv.org/pdf/1703.10593.pdf
+* SRGAN Paper: https://arxiv.org/pdf/1609.04802.pdf
+* ESRGAN Paper: https://arxiv.org/pdf/1809.00219.pdf
